@@ -1,4 +1,4 @@
-class Russian_movie:
+class Russianmovie:
 
     def __init__(self, name: str, release_date: int, budget: int, list_of_actors: list):
         """
